@@ -1,1 +1,1 @@
-## Machine Learning Algorithm to Denoise 3D Images of Biofilms
+## Machine Learning Models to Denoise 3D Images of Biofilms
