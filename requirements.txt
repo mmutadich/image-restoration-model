@@ -1,0 +1,10 @@
+numpy
+matplotlib
+tifffile
+opencv-python
+python-bioformats
+python-javabridge
+csbdeep
+stardist
+tdqm
+tensorflow
